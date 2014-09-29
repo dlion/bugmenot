@@ -1,0 +1,34 @@
+{
+  "name": "bugmenot",
+  "version": "1.0.0",
+  "description": "A node BugMeNot library to find username and password for various sites",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.44.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlion/bugmenot.git"
+  },
+  "keywords": [
+    "bugmenot",
+    "password",
+    "username",
+    "find",
+    "bug",
+    "sites",
+    "login",
+    "access"
+  ],
+  "author": "Domenico Luciani (http://dlion.it)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlion/bugmenot/issues"
+  },
+  "homepage": "https://github.com/dlion/bugmenot"
+}
