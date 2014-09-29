@@ -1,7 +1,7 @@
 Bugmenot
 ============
 
-A node [Bugmenot](http://bugmenot.com) library to find username and password for various sites
+A node [Bugmenot](http://bugmenot.com) module to find username and password for various sites
 
 ## Install
 You can install this library from [npmjs](http://npmjs.org) typing `npm install bugmenot`
